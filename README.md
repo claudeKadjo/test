@@ -1,1 +1,1 @@
-Test PR pour TICKET-12345
+Test PR pour TICKET-123456
